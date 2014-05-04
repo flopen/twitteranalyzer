@@ -1,0 +1,4 @@
+Iniciando...
+Buscar Twitters...OK
+Haciendo matriz TF IDF...OK
+Haciendo matriz similitud por coseno...OK

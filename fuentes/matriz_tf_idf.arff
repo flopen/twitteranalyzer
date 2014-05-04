@@ -1,0 +1,546 @@
+@RELATION GarciaMarquezTweets
+@ATTRIBUTE monte real
+@ATTRIBUTE despide real
+@ATTRIBUTE bogotá real
+@ATTRIBUTE unico real
+@ATTRIBUTE correo real
+@ATTRIBUTE escriba real
+@ATTRIBUTE #recomendado real
+@ATTRIBUTE hablaremos real
+@ATTRIBUTE tu real
+@ATTRIBUTE contribución real
+@ATTRIBUTE te real
+@ATTRIBUTE sabia real
+@ATTRIBUTE mí real
+@ATTRIBUTE colombianos real
+@ATTRIBUTE #gábrielgarcíamárquez real
+@ATTRIBUTE entrevista real
+@ATTRIBUTE sucedio real
+@ATTRIBUTE declaración real
+@ATTRIBUTE #periodismo real
+@ATTRIBUTE gortari real
+@ATTRIBUTE posiblemente real
+@ATTRIBUTE pueblo real
+@ATTRIBUTE @mincultura real
+@ATTRIBUTE recuerdan real
+@ATTRIBUTE incorporar real
+@ATTRIBUTE p real
+@ATTRIBUTE zócalo real
+@ATTRIBUTE mundial real
+@ATTRIBUTE expresaba real
+@ATTRIBUTE pase real
+@ATTRIBUTE música real
+@ATTRIBUTE cosa real
+@ATTRIBUTE pésima real
+@ATTRIBUTE canción real
+@ATTRIBUTE vía real
+@ATTRIBUTE video real
+@ATTRIBUTE describió real
+@ATTRIBUTE piensa real
+@ATTRIBUTE decri real
+@ATTRIBUTE podrás real
+@ATTRIBUTE cuarenta real
+@ATTRIBUTE coronel real
+@ATTRIBUTE tributo real
+@ATTRIBUTE @univ_cultura real
+@ATTRIBUTE difícil real
+@ATTRIBUTE corazonez real
+@ATTRIBUTE cordova real
+@ATTRIBUTE ever real
+@ATTRIBUTE #gabrielgarcíamárquez real
+@ATTRIBUTE vallenatos real
+@ATTRIBUTE público real
+@ATTRIBUTE funeral real
+@ATTRIBUTE ateo real
+@ATTRIBUTE género real
+@ATTRIBUTE flores real
+@ATTRIBUTE #carmenhoy real
+@ATTRIBUTE pdte real
+@ATTRIBUTE 100 real
+@ATTRIBUTE viaje real
+@ATTRIBUTE día real
+@ATTRIBUTE arcadio real
+@ATTRIBUTE miserere real
+@ATTRIBUTE contarla real
+@ATTRIBUTE cantarán real
+@ATTRIBUTE testigo real
+@ATTRIBUTE honor real
+@ATTRIBUTE #graciasga real
+@ATTRIBUTE cien real
+@ATTRIBUTE palabras real
+@ATTRIBUTE @belengalvan__ real
+@ATTRIBUTE #ripgabo real
+@ATTRIBUTE semana real
+@ATTRIBUTE presidente real
+@ATTRIBUTE nobel real
+@ATTRIBUTE #graciasgabo real
+@ATTRIBUTE nuca real
+@ATTRIBUTE #emmanuelcarballo real
+@ATTRIBUTE rodríguez real
+@ATTRIBUTE dios real
+@ATTRIBUTE @atencioncultura real
+@ATTRIBUTE #gabrielgarciamarque real
+@ATTRIBUTE 1996 real
+@ATTRIBUTE dep real
+@ATTRIBUTE gabriel real
+@ATTRIBUTE #cienanosdesoledad real
+@ATTRIBUTE #cdmx real
+@ATTRIBUTE @undiacomoleon real
+@ATTRIBUTE @laralvarezg real
+@ATTRIBUTE iniciar real
+@ATTRIBUTE inventó real
+@ATTRIBUTE chip real
+@ATTRIBUTE neruda real
+@ATTRIBUTE definitiva real
+@ATTRIBUTE #peru real
+@ATTRIBUTE #méxico real
+@ATTRIBUTE @enfoquenoticias real
+@ATTRIBUTE #gabo real
+@ATTRIBUTE #frases real
+@ATTRIBUTE hugo real
+@ATTRIBUTE vivieron real
+@ATTRIBUTE amistad real
+@ATTRIBUTE vivió real
+@ATTRIBUTE llega real
+@ATTRIBUTE maestro real
+@ATTRIBUTE años real
+@ATTRIBUTE @eluniversocom real
+@ATTRIBUTE cómodo real
+@ATTRIBUTE falta real
+@ATTRIBUTE culpables real
+@ATTRIBUTE falto real
+@ATTRIBUTE borrar real
+@ATTRIBUTE mal real
+@ATTRIBUTE sonrie real
+@ATTRIBUTE padre real
+@ATTRIBUTE solemne real
+@ATTRIBUTE diría real
+@ATTRIBUTE vendidos real
+@ATTRIBUTE q real
+@ATTRIBUTE méxico real
+@ATTRIBUTE fundamental real
+@ATTRIBUTE bartók real
+@ATTRIBUTE unimos real
+@ATTRIBUTE @carmenmenor real
+@ATTRIBUTE gigante real
+@ATTRIBUTE relato real
+@ATTRIBUTE marcaron real
+@ATTRIBUTE #obama real
+@ATTRIBUTE literario real
+@ATTRIBUTE mejores real
+@ATTRIBUTE forma real
+@ATTRIBUTE 22 real
+@ATTRIBUTE adios real
+@ATTRIBUTE pronto real
+@ATTRIBUTE argentino real
+@ATTRIBUTE 2014 real
+@ATTRIBUTE condolencias real
+@ATTRIBUTE idolo real
+@ATTRIBUTE @cirogomezl real
+@ATTRIBUTE náufrago real
+@ATTRIBUTE realizará real
+@ATTRIBUTE morimos real
+@ATTRIBUTE pensaría real
+@ATTRIBUTE dedo real
+@ATTRIBUTE @monterocnn real
+@ATTRIBUTE importante real
+@ATTRIBUTE recuerda real
+@ATTRIBUTE peor real
+@ATTRIBUTE encontraremos real
+@ATTRIBUTE sentía real
+@ATTRIBUTE fútbol real
+@ATTRIBUTE carlos real
+@ATTRIBUTE termino real
+@ATTRIBUTE @toyamolina real
+@ATTRIBUTE pablo real
+@ATTRIBUTE bellas real
+@ATTRIBUTE anécdotas real
+@ATTRIBUTE cólico real
+@ATTRIBUTE porfavor real
+@ATTRIBUTE rt real
+@ATTRIBUTE imaginación real
+@ATTRIBUTE @valledupar real
+@ATTRIBUTE lectura real
+@ATTRIBUTE recordaremos real
+@ATTRIBUTE #nolopuedocreer real
+@ATTRIBUTE @foro_tv real
+@ATTRIBUTE despedir real
+@ATTRIBUTE @buscamaria real
+@ATTRIBUTE obra real
+@ATTRIBUTE amigos real
+@ATTRIBUTE libros real
+@ATTRIBUTE @leereeditorial real
+@ATTRIBUTE @jaimemolina real
+@ATTRIBUTE gusto real
+@ATTRIBUTE @camachoyojeda real
+@ATTRIBUTE #gbo real
+@ATTRIBUTE horas real
+@ATTRIBUTE contaban real
+@ATTRIBUTE @ddmexico real
+@ATTRIBUTE hubiera real
+@ATTRIBUTE @historia_fotos real
+@ATTRIBUTE @185rosalopez real
+@ATTRIBUTE colombia real
+@ATTRIBUTE reflexiones real
+@ATTRIBUTE empeñó real
+@ATTRIBUTE pasos real
+@ATTRIBUTE principios real
+@ATTRIBUTE único real
+@ATTRIBUTE bonita real
+@ATTRIBUTE excepto real
+@ATTRIBUTE única real
+@ATTRIBUTE historias real
+@ATTRIBUTE @larepublica_pe real
+@ATTRIBUTE inocentes real
+@ATTRIBUTE ceremonia real
+@ATTRIBUTE abril real
+@ATTRIBUTE periodística real
+@ATTRIBUTE @arr1910 real
+@ATTRIBUTE programas real
+@ATTRIBUTE #gabrielgarciamárquez real
+@ATTRIBUTE listo real
+@ATTRIBUTE digo real
+@ATTRIBUTE godínez real
+@ATTRIBUTE 16 real
+@ATTRIBUTE 19 real
+@ATTRIBUTE muerte real
+@ATTRIBUTE versión real
+@ATTRIBUTE encabezado real
+@ATTRIBUTE colombiano real
+@ATTRIBUTE gravado real
+@ATTRIBUTE confirma real
+@ATTRIBUTE mágico real
+@ATTRIBUTE recursos real
+@ATTRIBUTE muriendo real
+@ATTRIBUTE presencia real
+@ATTRIBUTE #gaboporsiempre real
+@ATTRIBUTE @sextanoticias real
+@ATTRIBUTE 1966 real
+@ATTRIBUTE gustaría real
+@ATTRIBUTE #carlossalinasdegortari real
+@ATTRIBUTE nota real
+@ATTRIBUTE llores real
+@ATTRIBUTE mis real
+@ATTRIBUTE bohemia real
+@ATTRIBUTE #frase real
+@ATTRIBUTE who real
+@ATTRIBUTE duele real
+@ATTRIBUTE visitó real
+@ATTRIBUTE económicos real
+@ATTRIBUTE duelo real
+@ATTRIBUTE recogidas real
+@ATTRIBUTE conversa real
+@ATTRIBUTE lacras real
+@ATTRIBUTE why real
+@ATTRIBUTE adiós real
+@ATTRIBUTE artes real
+@ATTRIBUTE gabo real
+@ATTRIBUTE fiel real
+@ATTRIBUTE @alvarouribevel real
+@ATTRIBUTE #cien_años_de_soledad real
+@ATTRIBUTE olvidar real
+@ATTRIBUTE 12m real
+@ATTRIBUTE @man_deffis real
+@ATTRIBUTE #nisabequienfue real
+@ATTRIBUTE #lunes real
+@ATTRIBUTE narración real
+@ATTRIBUTE inmortaliza real
+@ATTRIBUTE hrs real
+@ATTRIBUTE sabiduría real
+@ATTRIBUTE inmensa real
+@ATTRIBUTE escritor real
+@ATTRIBUTE reportero real
+@ATTRIBUTE @mincultur real
+@ATTRIBUTE fallecimiento real
+@ATTRIBUTE tierra real
+@ATTRIBUTE @eltiempo real
+@ATTRIBUTE admiradores real
+@ATTRIBUTE @drlorenzomeyer real
+@ATTRIBUTE mercedes real
+@ATTRIBUTE grab real
+@ATTRIBUTE #vídeo real
+@ATTRIBUTE @santilafaurie real
+@ATTRIBUTE alistan real
+@ATTRIBUTE queda real
+@ATTRIBUTE 1927 real
+@ATTRIBUTE @grabmedianews real
+@ATTRIBUTE póstumo real
+@ATTRIBUTE 00 real
+@ATTRIBUTE primada real
+@ATTRIBUTE descanse real
+@ATTRIBUTE reconoce real
+@ATTRIBUTE colombian real
+@ATTRIBUTE alguien real
+@ATTRIBUTE compartir real
+@ATTRIBUTE fallece real
+@ATTRIBUTE @juanmansantos real
+@ATTRIBUTE #gabrielgarciamarquez real
+@ATTRIBUTE quiero real
+@ATTRIBUTE favoritas real
+@ATTRIBUTE ja real
+@ATTRIBUTE @hcmauri real
+@ATTRIBUTE #paraleer real
+@ATTRIBUTE cenizas real
+@ATTRIBUTE recordemos real
+@ATTRIBUTE salinas real
+@ATTRIBUTE despedida real
+@ATTRIBUTE #quote real
+@ATTRIBUTE @jordiglez real
+@ATTRIBUTE silvio real
+@ATTRIBUTE queno real
+@ATTRIBUTE llevaría real
+@ATTRIBUTE nacemos real
+@ATTRIBUTE chávez real
+@ATTRIBUTE recibe real
+@ATTRIBUTE @ntelevisa_com real
+@ATTRIBUTE intelectual real
+@ATTRIBUTE @aguedapizarro real
+@ATTRIBUTE breve real
+@ATTRIBUTE @caricaturasmoly real
+@ATTRIBUTE señal real
+@ATTRIBUTE #ja real
+@ATTRIBUTE @graffitiborrao real
+@ATTRIBUTE interesantísimo real
+@ATTRIBUTE abierto real
+@ATTRIBUTE lástima real
+@ATTRIBUTE mexico real
+@ATTRIBUTE @guardian real
+@ATTRIBUTE @la_iguanatv real
+@ATTRIBUTE discurso real
+@ATTRIBUTE @peru21pe real
+@ATTRIBUTE fácil real
+@ATTRIBUTE historiador real
+@ATTRIBUTE pienso real
+@ATTRIBUTE bello real
+@ATTRIBUTE @loqueellassaben real
+@ATTRIBUTE grandioso real
+@ATTRIBUTE paz real
+@ATTRIBUTE aprendí real
+@ATTRIBUTE listos real
+@ATTRIBUTE castillo real
+@ATTRIBUTE @lasillarota real
+@ATTRIBUTE @epn real
+@ATTRIBUTE lunes real
+@ATTRIBUTE persona real
+@ATTRIBUTE http real
+@ATTRIBUTE memoria real
+@ATTRIBUTE mujeres real
+@ATTRIBUTE @cooperativa real
+@ATTRIBUTE atrapan real
+@ATTRIBUTE catedral real
+@ATTRIBUTE luto real
+@ATTRIBUTE arturo real
+@ATTRIBUTE @mapamundiradio real
+@ATTRIBUTE lectora real
+@ATTRIBUTE greatest real
+@ATTRIBUTE golondrinos real
+@ATTRIBUTE the real
+@ATTRIBUTE josefa real
+@ATTRIBUTE publicó real
+@ATTRIBUTE just real
+@ATTRIBUTE queme real
+@ATTRIBUTE comentario real
+@ATTRIBUTE @elespectador real
+@ATTRIBUTE escritores real
+@ATTRIBUTE maría real
+@ATTRIBUTE temblor real
+@ATTRIBUTE anunciada real
+@ATTRIBUTE amanezco real
+@ATTRIBUTE vida real
+@ATTRIBUTE @lasinrazon_es real
+@ATTRIBUTE barack real
+@ATTRIBUTE existiera real
+@ATTRIBUTE @elgabo real
+@ATTRIBUTE mujer real
+@ATTRIBUTE extrañar real
+@ATTRIBUTE historia real
+@ATTRIBUTE volver real
+@ATTRIBUTE d real
+@ATTRIBUTE @mateico26 real
+@ATTRIBUTE amor real
+@ATTRIBUTE @inys96 real
+@ATTRIBUTE @vertigopolitico real
+@ATTRIBUTE piedad real
+@ATTRIBUTE imagen real
+@ATTRIBUTE ustedes real
+@ATTRIBUTE acompañar real
+@ATTRIBUTE necesidad real
+@ATTRIBUTE @megustaq_ real
+@ATTRIBUTE #enriquepeñanieto real
+@ATTRIBUTE recordamos real
+@ATTRIBUTE rasgo real
+@ATTRIBUTE periodismo real
+@ATTRIBUTE escribirla real
+@ATTRIBUTE josé real
+@ATTRIBUTE leal real
+@ATTRIBUTE @dsantoro59 real
+@ATTRIBUTE cubadebate real
+@ATTRIBUTE carta real
+@ATTRIBUTE garcía real
+@ATTRIBUTE requiem real
+@ATTRIBUTE poeta real
+@ATTRIBUTE homenajes real
+@ATTRIBUTE encada real
+@ATTRIBUTE #chau real
+@ATTRIBUTE olvidaremos real
+@ATTRIBUTE #mexico real
+@ATTRIBUTE envía real
+@ATTRIBUTE #colombia real
+@ATTRIBUTE alcanzamos real
+@ATTRIBUTE @codice_informa real
+@ATTRIBUTE @bellasartesinba real
+@ATTRIBUTE desatino real
+@ATTRIBUTE morir real
+@ATTRIBUTE ojalá real
+@ATTRIBUTE llevó real
+@ATTRIBUTE despiden real
+@ATTRIBUTE leyenda real
+@ATTRIBUTE interesante real
+@ATTRIBUTE prepara real
+@ATTRIBUTE 1982 real
+@ATTRIBUTE delos real
+@ATTRIBUTE muerto real
+@ATTRIBUTE was real
+@ATTRIBUTE esposa real
+@ATTRIBUTE ht real
+@ATTRIBUTE soledad real
+@ATTRIBUTE sirve real
+@ATTRIBUTE #macondo real
+@ATTRIBUTE familia real
+@ATTRIBUTE artículo real
+@ATTRIBUTE @efenoticias real
+@ATTRIBUTE martes real
+@ATTRIBUTE amarillas real
+@ATTRIBUTE #adiosgabo real
+@ATTRIBUTE @andreasernarcn real
+@ATTRIBUTE homenaje real
+@ATTRIBUTE escrita real
+@ATTRIBUTE despedirá real
+@ATTRIBUTE lived real
+@ATTRIBUTE muertes real
+@ATTRIBUTE @siete24noticias real
+@ATTRIBUTE chau real
+@ATTRIBUTE hinchado real
+@ATTRIBUTE @fnpi_org real
+@ATTRIBUTE españa real
+@ATTRIBUTE comprendo real
+@ATTRIBUTE @denisedresserg real
+@ATTRIBUTE actos real
+@ATTRIBUTE #dep real
+@ATTRIBUTE recordar real
+@ATTRIBUTE investigación real
+@ATTRIBUTE borre real
+@ATTRIBUTE leído real
+@ATTRIBUTE crónica real
+@ATTRIBUTE realismo real
+@ATTRIBUTE #artículo real
+@ATTRIBUTE siente real
+@ATTRIBUTE corazón real
+@ATTRIBUTE #juanmanuelsantos real
+@ATTRIBUTE mozart real
+@ATTRIBUTE ética real
+@ATTRIBUTE sentado real
+@ATTRIBUTE nelson real
+@ATTRIBUTE macondo real
+@ATTRIBUTE márquez real
+@DATA
+{158 21.942, 275 24.84, 295 296.0, 427 363.372}
+{83 41.496, 154 60.14, 199 141.4, 233 140.634, 234 91.18, 275 17.664, 377 173.88, 443 204.24}
+{48 7.938, 85 44.032, 154 51.305, 158 13.197, 164 99.495, 234 77.785, 255 131.072, 281 144.384, 292 150.016, 364 186.88, 414 84.66}
+{24 12.8, 80 48.843, 111 51.408, 158 13.197, 172 88.576, 182 93.696, 195 100.352, 241 145.926, 283 119.564, 365 187.392, 424 217.6}
+{35 15.156, 48 7.938, 66 28.207, 91 38.732, 153 64.834, 158 13.197, 217 91.778, 230 97.251, 250 105.671, 355 139.552, 422 140.013}
+{158 25.281, 275 28.704, 297 344.19}
+{221 222.0, 275 24.84, 277 278.0, 285 286.0}
+{10 5.049, 29 18.09, 33 20.502, 77 47.034, 132 80.199, 189 114.57, 275 14.904, 287 173.664, 392 236.979, 414 84.66, 430 259.893}
+{154 56.73, 158 14.628, 234 86.01, 275 16.56, 384 217.91, 386 219.042, 388 259.463, 397 202.184, 414 93.79}
+{0 0.603, 26 16.281, 70 36.352, 176 106.731, 183 110.952, 211 127.836, 227 137.484, 257 155.574, 275 14.904, 361 218.286, 402 243.009}
+{47 26.64, 83 32.592, 158 12.084, 224 124.875, 232 129.315, 270 150.405, 305 169.83, 333 185.37, 335 186.48, 377 136.458, 401 223.11, 417 231.99, 443 160.284}
+{19 13.88, 28 23.664, 48 10.731, 100 82.416, 150 104.794, 283 162.164}
+{24 13.425, 55 35.392, 111 53.984, 172 92.901, 182 98.271, 195 105.252, 275 15.732, 283 125.528, 365 196.542, 424 228.225}
+{158 21.942, 235 136.172, 260 261.0, 275 24.84}
+{4 3.535, 70 42.671, 205 145.642, 216 153.419, 238 168.973, 275 17.664, 371 263.004, 385 272.902}
+{21 13.904, 38 24.648, 41 22.554, 109 69.52, 135 85.952, 163 103.648, 275 15.732, 336 212.984, 343 217.408, 406 257.224}
+{10 6.336, 71 54.432, 88 67.284, 223 129.024, 235 103.132, 275 18.768, 383 290.304}
+{48 8.771, 67 34.544, 104 45.57, 119 80.04, 158 14.628, 167 112.056, 326 218.109, 354 236.785, 404 188.73}
+{49 32.1, 54 29.04, 165 106.572, 235 103.132, 275 18.768, 375 241.392, 411 217.536}
+{45 32.522, 208 147.763, 262 185.941, 275 17.664, 342 242.501, 347 187.224, 381 270.074, 399 282.8}
+{18 13.433, 48 9.31, 90 64.337, 107 76.356, 244 173.215, 374 265.125, 429 304.01, 439 311.08}
+{25 13.91, 83 31.416, 116 62.595, 158 11.766, 169 77.18, 273 146.59, 275 13.248, 282 151.405, 323 131.868, 348 186.715, 356 190.995, 377 131.544, 423 226.84, 443 154.512}
+{57 47.328, 104 55.755, 184 150.96, 275 20.424, 375 260.944, 404 231.255}
+{122 123.0, 158 21.942, 275 24.84, 359 360.0}
+{5 4.896, 41 29.148, 102 84.048, 247 202.368, 275 20.424, 405 331.296}
+{48 8.771, 85 48.676, 154 56.73, 234 86.01, 255 144.896, 281 159.612, 292 165.838, 364 206.59, 414 93.79}
+{50 27.387, 188 119.448, 201 127.664, 202 97.846, 203 128.928, 246 156.104, 275 15.732, 302 162.711, 387 245.216, 414 88.81}
+{48 9.31, 62 44.541, 101 72.114, 145 206.444, 347 187.224}
+{17 14.688, 48 10.731, 56 46.512, 126 103.632, 252 175.582, 349 285.6}
+{75 50.692, 86 58.029, 158 14.628, 178 119.393, 275 16.56, 303 202.768, 352 235.451, 358 167.294, 431 288.144}
+{168 117.286, 272 222.768, 275 20.424, 351 244.288, 355 189.036, 391 223.832}
+{46 31.349, 76 51.359, 95 64.032, 275 16.56, 330 220.777, 338 226.113, 340 227.447, 379 253.46, 418 279.473}
+{158 13.197, 159 96.48, 173 104.922, 181 76.622, 210 127.233, 268 162.207, 275 14.904, 315 190.548, 393 237.582, 433 261.702, 442 267.129}
+{2 1.083, 34 11.76, 65 23.826, 114 41.515, 130 47.291, 158 11.289, 193 70.034, 194 70.395, 240 87.001, 251 90.972, 267 96.748, 275 12.972, 328 118.769, 410 148.371, 422 119.709}
+{154 64.325, 234 97.525, 275 18.768, 384 247.17, 386 248.454, 397 229.248, 414 106.24}
+{48 8.33, 72 39.201, 118 39.389, 158 13.833, 207 91.936, 209 132.72, 213 114.918, 323 156.168, 414 88.81, 419 265.44}
+{59 36.18, 60 36.783, 142 86.229, 275 14.904, 298 180.297, 329 198.99, 334 202.005, 346 209.241, 372 224.919, 414 84.66, 421 254.466}
+{42 27.176, 96 46.754, 136 86.584, 214 135.88, 235 86.14, 275 15.732, 276 175.064, 304 192.76, 382 242.056, 420 266.072}
+{158 13.833, 175 94.512, 177 112.496, 198 106.863, 202 97.846, 259 139.62, 266 143.379, 312 168.081, 389 209.43, 414 88.81}
+{3 2.048, 74 34.425, 158 13.197, 179 92.16, 225 103.734, 275 14.904, 288 147.968, 339 174.08, 358 151.139, 391 165.032, 412 161.896}
+{43 33.264, 48 9.947, 63 48.384, 158 16.536, 181 96.096, 378 286.524, 438 331.884}
+{48 9.947, 96 55.872, 118 47.005, 158 16.536, 181 96.096, 360 272.916, 380 244.602}
+{35 15.156, 48 7.938, 66 28.207, 91 38.732, 153 64.834, 158 13.197, 217 91.778, 230 97.251, 250 105.671, 355 139.552, 422 140.013}
+{15 11.312, 98 69.993, 143 101.808, 158 15.423, 161 114.534, 275 17.664, 291 206.444, 396 280.679}
+{23 15.168, 64 41.08, 106 67.624, 148 94.168, 158 13.833, 275 15.732, 280 177.592, 319 171.84, 323 156.168, 325 206.032}
+{44 28.44, 96 46.754, 158 13.833, 239 151.68, 275 15.732, 309 195.92, 324 205.4, 366 231.944, 428 230.373, 436 234.669}
+{40 30.996, 104 51.66, 144 109.62, 158 16.536, 275 18.768, 286 216.972, 316 239.652}
+{74 43.2, 123 93.744, 158 16.536, 207 109.824, 245 185.976, 275 18.768, 300 227.556}
+{34 15.19, 48 8.771, 81 54.694, 158 14.628, 301 201.434, 307 205.436, 341 228.114, 370 209.986, 413 276.138}
+{139 93.38, 154 56.73, 158 14.628, 234 86.01, 261 148.292, 275 16.56, 319 181.12, 321 182.252, 414 93.79}
+{89 90.0, 275 24.84, 332 333.0, 412 268.863}
+{35 15.156, 48 7.938, 66 28.207, 91 38.732, 153 64.834, 158 13.197, 217 91.778, 230 97.251, 250 105.671, 355 139.552, 422 140.013}
+{13 10.584, 78 59.724, 231 175.392, 237 179.928, 275 18.768, 289 219.24, 350 265.356}
+{175 105.776, 198 119.599, 202 109.214, 259 156.26, 266 160.467, 312 188.113, 389 234.39, 414 99.6}
+{48 8.771, 50 28.866, 154 56.73, 158 14.628, 234 86.01, 265 150.556, 293 196.098, 302 171.498, 414 93.79}
+{155 94.068, 158 13.197, 229 138.69, 275 14.904, 331 400.392, 403 243.612, 408 246.627, 414 84.66}
+{30 17.887, 49 24.5, 54 22.22, 118 35.938, 120 53.24, 158 12.72, 165 81.34, 174 100.975, 215 124.632, 235 78.588, 275 14.352, 411 166.448}
+{14 9.48, 118 39.389, 158 13.833, 181 80.444, 377 155.358, 394 249.64, 409 259.12, 414 88.81, 426 269.864, 443 182.484}
+{32 19.899, 37 22.914, 51 31.356, 110 66.933, 218 132.057, 275 14.904, 278 168.237, 294 177.885, 299 180.9, 322 194.769, 362 218.889}
+{8 5.688, 48 8.33, 99 63.2, 113 72.048, 152 96.696, 160 101.752, 171 108.704, 222 140.936, 363 230.048, 395 250.272}
+{35 15.156, 48 7.938, 66 28.207, 91 38.732, 153 64.834, 158 13.197, 217 91.778, 230 97.251, 250 105.671, 355 139.552, 422 140.013}
+{2 1.083, 34 11.76, 65 23.826, 114 41.515, 130 47.291, 158 11.289, 193 70.034, 194 70.395, 240 87.001, 251 90.972, 267 96.748, 275 12.972, 328 118.769, 410 148.371, 422 119.709}
+{7 5.336, 48 8.771, 137 92.046, 154 56.73, 158 14.628, 196 131.399, 234 86.01, 310 207.437, 414 93.79}
+{213 128.614, 242 171.801, 256 181.699, 275 17.664, 317 224.826, 320 226.947, 414 99.6, 425 301.182}
+{39 26.68, 129 86.71, 146 98.049, 158 14.628, 271 181.424, 275 16.56, 313 209.438, 353 236.118, 440 294.147}
+{124 125.0, 138 139.0, 170 171.0, 275 24.84}
+{2 1.083, 34 11.76, 65 23.826, 114 41.515, 130 47.291, 158 11.289, 193 70.034, 194 70.395, 240 87.001, 251 90.972, 267 96.748, 275 12.972, 328 118.769, 410 148.371, 422 119.709}
+{48 8.771, 83 39.144, 93 62.698, 118 41.531, 367 245.456, 377 164.052, 414 93.79, 437 292.146, 443 192.696}
+{158 25.281, 275 28.704, 357 413.49}
+{68 48.783, 128 91.203, 158 15.423, 166 118.069, 197 139.986, 275 17.664, 327 231.896, 436 262.637}
+{94 60.99, 105 80.136, 158 16.536, 235 103.132, 261 168.204, 275 18.768, 380 244.602}
+{72 43.873, 125 89.082, 169 102.17, 206 146.349, 275 17.664, 347 187.224, 414 99.6, 428 257.829}
+{3 2.048, 74 34.425, 158 13.197, 179 92.16, 225 103.734, 275 14.904, 288 147.968, 339 174.08, 358 151.139, 391 165.032, 412 161.896}
+{48 8.771, 67 34.544, 104 45.57, 131 88.044, 147 98.716, 204 136.735, 345 230.782, 404 188.73, 432 288.811}
+{31 22.624, 82 58.681, 117 83.426, 157 111.706, 158 15.423, 180 127.967, 187 132.916, 275 17.664}
+{134 120.69, 158 19.557, 263 236.016, 275 22.356, 306 274.458}
+{118 55.692, 158 19.557, 191 171.648, 275 22.356, 414 125.745}
+{20 13.272, 92 58.776, 97 61.936, 115 73.312, 141 89.744, 200 127.032, 275 15.732, 284 180.12, 311 197.184, 376 238.264}
+{9 7.07, 48 9.31, 53 38.178, 127 90.496, 158 15.423, 248 176.043, 279 168.28, 370 222.971}
+{275 49.68}
+{48 8.771, 133 89.378, 158 14.628, 219 146.74, 269 180.09, 279 158.48, 369 246.79, 398 266.133, 415 277.472}
+{48 9.31, 54 27.17, 118 44.03, 120 65.098, 158 15.423, 308 185.709, 411 203.528, 416 250.617}
+{275 49.68}
+{6 4.424, 103 65.728, 235 86.14, 275 15.732, 296 187.704, 318 201.608, 337 213.616, 414 88.81, 434 274.92, 441 279.344}
+{1 2.0, 48 13.181, 94 80.655, 321 273.378}
+{158 15.423, 223 120.512, 243 146.644, 258 155.659, 264 187.355, 275 17.664, 368 221.769, 412 189.98}
+{108 97.446, 140 126.054, 192 172.542, 275 22.356, 290 260.154}
+{84 75.99, 253 193.04, 275 22.356, 344 308.43, 435 389.784}
+{2 1.083, 34 11.76, 65 23.826, 114 41.515, 130 47.291, 158 11.289, 193 70.034, 194 70.395, 240 87.001, 251 90.972, 267 96.748, 275 12.972, 328 118.769, 410 148.371, 422 119.709}
+{19 10.24, 36 22.311, 48 7.938, 150 77.312, 168 86.528, 185 112.158, 226 136.881, 236 142.911, 283 119.564, 373 225.522, 407 246.024}
+{87 62.216, 158 15.423, 186 132.209, 225 121.588, 275 17.664, 358 177.346, 391 193.648, 427 257.228}
+{223 139.328, 243 169.336, 258 179.746, 275 20.424, 368 256.086, 412 219.303}
+{48 9.31, 54 27.17, 118 44.03, 120 65.098, 158 15.423, 308 185.709, 411 203.528, 416 250.617}
+{12 9.828, 61 46.872, 69 52.92, 156 118.692, 158 16.536, 212 161.028, 275 18.768}
+{48 10.731, 67 42.296, 104 55.755, 253 176.276, 400 327.216, 404 231.255}
+{10 5.918, 16 12.019, 112 79.891, 151 107.464, 162 115.241, 220 156.247, 275 17.664, 351 211.552}
+{27 16.884, 48 7.938, 58 35.577, 73 44.622, 121 73.566, 190 115.173, 207 87.568, 228 138.087, 249 150.75, 252 129.536, 314 189.945}
+{118 62.237, 233 198.666, 275 24.84, 397 302.878}
+{11 8.484, 22 16.261, 52 37.471, 79 56.56, 111 60.256, 274 194.425, 275 17.664, 390 276.437}
+{48 9.947, 149 113.4, 158 16.536, 207 109.824, 254 192.78, 265 170.772, 414 106.24}
